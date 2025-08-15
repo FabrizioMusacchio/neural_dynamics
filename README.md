@@ -15,6 +15,7 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Exponential (EIF) and adaptive exponential Integrate-and-Fire (AdEx) model](https://www.fabriziomusacchio.com/blog/2024-08-25-EIF_and_AdEx_model/)
 * [Campbell and Siegert approximation for estimating the firing rate of a neuron](https://www.fabriziomusacchio.com/blog/2024-09-01-campbell_siegert_approximation/)
 * [Bienenstock-Cooper-Munro (BCM) rule](https://www.fabriziomusacchio.com/blog/2024-09-08-bcm_rule/)
+* [On the role of gap junctions](https://www.fabriziomusacchio.com/blog/2025-08-15-gap_junctions/)
 
 
 
