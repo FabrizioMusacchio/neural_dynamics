@@ -16,6 +16,7 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Campbell and Siegert approximation for estimating the firing rate of a neuron](https://www.fabriziomusacchio.com/blog/2024-09-01-campbell_siegert_approximation/)
 * [Bienenstock-Cooper-Munro (BCM) rule](https://www.fabriziomusacchio.com/blog/2024-09-08-bcm_rule/)
 * [On the role of gap junctions](https://www.fabriziomusacchio.com/blog/2025-08-15-gap_junctions/)
+* [On the role of gap junctions in neural modelling: Network example](https://www.fabriziomusacchio.com/blog/2025-09-17-gap_junctions_network_example/)
 
 
 
