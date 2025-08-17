@@ -23,9 +23,8 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 For reproducibility:
 
 ```bash
-conda create -n nest -y python=3.11
+conda create -n nest -y python=3.11 mamba
 conda activate nest
-conda install -c conda-forge -y mamba
 mamba install -y ipykernel matplotlib numpy pandas nest-simulator
 ```
 
