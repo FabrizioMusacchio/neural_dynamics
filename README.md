@@ -5,8 +5,6 @@
 ## What is neural dynamics?
 Neural dynamics studies how the activity of neurons and neural networks evolves over time. It focuses on the mathematical and computational description of spiking behavior, membrane potentials, oscillations, synchronization, attractor states, and learning through synaptic plasticity. Typical approaches include differential-equation-based neuron models, spiking neural networks, and dynamical-systems analysis. Neural dynamics forms a central part of computational neuroscience, providing theoretical tools to understand how neural circuits generate computation, memory, and behavior.
 
-
-
 ## Purpose of this collection
 This repository provides a collection of educational Python scripts that explore core concepts in neural dynamics. The focus is on interpretable models and simulations such as integrate-and-fire neurons, spiking neural networks, and plasticity rules. The goal is to offer concise, well-documented examples that support learning, experimentation, and theoretical exploration, rather than large-scale machine-learning frameworks. The scripts are intended for everyone who want to build intuition for dynamical processes in neural systems and reproduce classic results from theoretical neuroscience.
 
@@ -55,27 +53,27 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 The following scripts are not based on the NEST Simulator, but rather implement models and simulations from scratch using standard Python libraries such as NumPy and Matplotlib (but not limited to them).
 
 * [Building a neural network from scratch using NumPy](https://www.fabriziomusacchio.com/blog/2024-02-25-ann_from_scratch_using_numpy/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/ann_with_numpy)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/ann_with_numpy).
 * [Understanding Hebbian learning in Hopfield networks](https://www.fabriziomusacchio.com/blog/2024-03-03-hebbian_learning_and_hopfield_networks/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/hopfield_network)
-* [Integrate and Fire Model: A simple neuronal model](https://www.fabriziomusacchio.com/blog/2023-07-03-integrate_and_fire_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/integrate_and_fire_model/tree/master)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/hopfield_network).
+* [Integrate and Fire Model: A simple neuronal model](https://www.fabriziomusacchio.com/blog/2023-07-03-integrate_and_fire_model/).
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/integrate_and_fire_model/tree/master).
 * [Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-10-roessler_attractor/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
 * [Using phase plane analysis to understand dynamical systems](https://www.fabriziomusacchio.com/blog/2024-03-17-phase_plane_analysis/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
 * [Nullclines and fixed points of the Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-19-roesler_attractor_nullcines_and_fixed_points/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
 * [Van der Pol oscillator](https://www.fabriziomusacchio.com/blog/2024-03-24-van_der_pol_oscillator/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
 * [FitzHugh-Nagumo model](https://www.fabriziomusacchio.com/blog/2024-04-07-fitzhugh_nagumo_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
 * [Hodgkin-Huxley model](https://www.fabriziomusacchio.com/blog/2024-04-21-hodgkin_huxley_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/Hodgkin-Huxley-Model)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/Hodgkin-Huxley-Model).
 * [Izhikevich model](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/)
+  * ⟶ not part of this repository, but you can find it [here](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/).
 * [Simulating spiking neural networks with Izhikevich neurons](https://www.fabriziomusacchio.com/blog/2024-05-19-izhikevich_network_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/izhikevich_model)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/izhikevich_model).
 
 
 ## Installation
@@ -94,7 +92,7 @@ Each script can be run directly using the Python environment described above. In
 This repository is licensed under the GNU General Public License v3.0 (GPLv3). See the [LICENSE](LICENSE) file for details.
 
 ## Citation
-If you use code from this repository for your own research, teaching material, or derived software, please consider citing the Zenodo archive associated with this repository (WILL BE ADDED SOON). Proper citation helps acknowledge the original source, provides context for the implemented physical models and numerical assumptions, and supports reproducibility.
+If you use code from this repository for your own research, teaching material, or derived software, please consider citing the [Zenodo archive](https://doi.org/10.5281/zenodo.18449732) associated with this repository. Proper citation helps acknowledge the original source, provides context for the implemented physical models and numerical assumptions, and supports reproducibility.
 
 When appropriate, citing the specific blog post that discusses the underlying concepts and numerical methods in detail is encouraged in addition to the repository itself.
 
@@ -102,7 +100,16 @@ If you use substantial parts of the code in an academic publication, a reference
 
 Here is the suggested citation format for the repository:
 
-> WILL BE ADDED SOON (Feb 2026)
+```bibtex
+@software{musacchio_neural_dynamics_2026,
+  author       = {Musacchio, Fabrizio},
+  title        = {Neural Dynamics: Educational Python scripts for Computational Neuroscience},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18449732},
+  url          = {https://doi.org/10.5281/zenodo.18449732}
+}
+```
 
 
 Thank you for considering proper citation practices.
