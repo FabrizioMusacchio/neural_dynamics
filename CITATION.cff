@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Neural Dynamics: Educational Python scripts for Computational Neuroscience"
+version: "1.0.0"
+authors:
+  - family-names: Musacchio
+    given-names: Fabrizio
+doi: 10.5281/zenodo.18449732
+url: https://github.com/FabrizioMusacchio/neural-dynamics/
+repository-code: https://github.com/FabrizioMusacchio/neural-dynamics/
+date-released: 2026-01-29
+license: GPL-3.0
