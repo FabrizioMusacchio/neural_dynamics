@@ -48,7 +48,7 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [On the role of gap junctions in neural modelling: Network example](https://www.fabriziomusacchio.com/blog/2025-08-17-gap_junctions_network_example/)
     * ⟶ `tutorials/gap_junctions_network_example.py`
 * [Rate models as a tool for studying collective neural activity](https://www.fabriziomusacchio.com/blog/2025-08-28-rate_models/)
-* Incorporating structural plasticity in neural network models (coming soon
+* [Incorporating structural plasticity in neural network models](https://www.fabriziomusacchio.com/blog/2026-02-01-structural_plasticity/)
     * ⟶ `tutorials/structural_plasticity.py`
 
 ### General computational neuroscience scripts
