@@ -2,6 +2,7 @@
 
 This is a collection of tutorials showing how to use the [NEST Simulator](https://nest-simulator.readthedocs.io/en/stable/index.html). You can find a detailed description for each tutorial in the following blog posts:
 
+
 * [NEST simulator – A powerful tool for simulating large-scale spiking neural networks](https://www.fabriziomusacchio.com/blog/2024-06-09-nest_SNN_simulator/)
 * [Step-by-step NEST single neuron simulation](https://www.fabriziomusacchio.com/blog/2024-06-16-nest_single_neuron_example/)
 * [Connection concepts in NEST](https://www.fabriziomusacchio.com/blog/2024-06-25-nest_connection_concepts/)
