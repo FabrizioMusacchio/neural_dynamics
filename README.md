@@ -90,6 +90,9 @@ mamba install -y ipykernel matplotlib numpy pandas nest-simulator
 ## Usage
 Each script can be run directly using the Python environment described above. In particular, they are written in such a way, that they can be interactively executed cell-by-cell, e.g., in VS Code's interactive window. You can also place them in a Jupyter notebook for step-by-step execution.
 
+## License
+This repository is licensed under the GNU General Public License v3.0 (GPLv3). See the [LICENSE](LICENSE) file for details.
+
 ## Citation
 If you use code from this repository for your own research, teaching material, or derived software, please consider citing the Zenodo archive associated with this repository (WILL BE ADDED SOON). Proper citation helps acknowledge the original source, provides context for the implemented physical models and numerical assumptions, and supports reproducibility.
 
