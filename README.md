@@ -1,6 +1,6 @@
 # Neural Dynamics: Educational Python scripts for Computational Neuroscience
 
-![img](thumb/single_neuron_iaf_psc_alpha_Ie_376.0.png)
+![img](images/single_neuron_iaf_psc_alpha_Ie_376.0.png)
 
 ## What is neural dynamics?
 Neural dynamics studies how the activity of neurons and neural networks evolves over time. It focuses on the mathematical and computational description of spiking behavior, membrane potentials, oscillations, synchronization, attractor states, and learning through synaptic plasticity. Typical approaches include differential-equation-based neuron models, spiking neural networks, and dynamical-systems analysis. Neural dynamics forms a central part of computational neuroscience, providing theoretical tools to understand how neural circuits generate computation, memory, and behavior.
