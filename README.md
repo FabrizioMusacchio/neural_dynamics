@@ -107,7 +107,7 @@ Here is the suggested citation format for the repository:
 ```bibtex
 @software{musacchio_neural_dynamics_2026,
   author       = {Musacchio, Fabrizio},
-  title        = {Neural Dynamics: Educational Python scripts for Computational Neuroscience},
+  title        = {Neural Dynamics: A collection of educational Python scripts},
   year         = {2026},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18449732},
