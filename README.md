@@ -16,9 +16,29 @@ Each script in this repository is accompanied by a detailed blog post that expla
 All referenced Python scripts listed below can be found in the `tutorials/` directory of this repository.
 
 
-### NEST Simulator tutorials
-This is a collection of tutorials showing how to use the [NEST Simulator](https://nest-simulator.readthedocs.io/en/stable/index.html). Each tutorial is usually based on the corresponding original tutorial from the NEST Simulator documentation, but modified and expanded to include more explanations and additional examples.
-
+* [Neural Dynamics: A definitional perspective](https://www.fabriziomusacchio.com/blog/2026-02-04-neural_dynamics/) (overview article)
+* [Building a neural network from scratch using NumPy](https://www.fabriziomusacchio.com/blog/2024-02-25-ann_from_scratch_using_numpy/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/ann_with_numpy).
+* [Understanding Hebbian learning in Hopfield networks](https://www.fabriziomusacchio.com/blog/2024-03-03-hebbian_learning_and_hopfield_networks/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/hopfield_network).
+* [Integrate and Fire Model: A simple neuronal model](https://www.fabriziomusacchio.com/blog/2023-07-03-integrate_and_fire_model/).
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/integrate_and_fire_model/tree/master).
+* [Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-10-roessler_attractor/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
+* [Using phase plane analysis to understand dynamical systems](https://www.fabriziomusacchio.com/blog/2024-03-17-phase_plane_analysis/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
+* [Nullclines and fixed points of the Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-19-roesler_attractor_nullcines_and_fixed_points/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
+* [Van der Pol oscillator](https://www.fabriziomusacchio.com/blog/2024-03-24-van_der_pol_oscillator/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
+* [FitzHugh-Nagumo model](https://www.fabriziomusacchio.com/blog/2024-04-07-fitzhugh_nagumo_model/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
+* [Hodgkin-Huxley model](https://www.fabriziomusacchio.com/blog/2024-04-21-hodgkin_huxley_model/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/Hodgkin-Huxley-Model).
+* [Izhikevich model](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/)
+  * ⟶ not part of this repository, but you can find it [here](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/).
+* [Simulating spiking neural networks with Izhikevich neurons](https://www.fabriziomusacchio.com/blog/2024-05-19-izhikevich_network_model/)
+  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/izhikevich_model).
 * [NEST simulator – A powerful tool for simulating large-scale spiking neural networks](https://www.fabriziomusacchio.com/blog/2024-06-09-nest_SNN_simulator/) (overview article)
 * [Step-by-step NEST single neuron simulation](https://www.fabriziomusacchio.com/blog/2024-06-16-nest_single_neuron_example/)
     * ⟶ `single_neuron_simulation.py`
@@ -52,32 +72,10 @@ This is a collection of tutorials showing how to use the [NEST Simulator](https:
 * [Rate models as a tool for studying collective neural activity](https://www.fabriziomusacchio.com/blog/2025-08-28-rate_models/)
 * [Incorporating structural plasticity in neural network models](https://www.fabriziomusacchio.com/blog/2026-02-01-structural_plasticity/)
     * ⟶ `structural_plasticity.py`
-
-### General computational neuroscience scripts
-The following scripts are not based on the NEST Simulator, but rather implement models and simulations from scratch using standard Python libraries such as NumPy and Matplotlib (but not limited to them).
-
-* [Building a neural network from scratch using NumPy](https://www.fabriziomusacchio.com/blog/2024-02-25-ann_from_scratch_using_numpy/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/ann_with_numpy).
-* [Understanding Hebbian learning in Hopfield networks](https://www.fabriziomusacchio.com/blog/2024-03-03-hebbian_learning_and_hopfield_networks/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/hopfield_network).
-* [Integrate and Fire Model: A simple neuronal model](https://www.fabriziomusacchio.com/blog/2023-07-03-integrate_and_fire_model/).
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/integrate_and_fire_model/tree/master).
-* [Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-10-roessler_attractor/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
-* [Using phase plane analysis to understand dynamical systems](https://www.fabriziomusacchio.com/blog/2024-03-17-phase_plane_analysis/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
-* [Nullclines and fixed points of the Rössler attractor](https://www.fabriziomusacchio.com/blog/2024-03-19-roesler_attractor_nullcines_and_fixed_points/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/roessler_attractor).
-* [Van der Pol oscillator](https://www.fabriziomusacchio.com/blog/2024-03-24-van_der_pol_oscillator/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
-* [FitzHugh-Nagumo model](https://www.fabriziomusacchio.com/blog/2024-04-07-fitzhugh_nagumo_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/phase_plane_analysis).
-* [Hodgkin-Huxley model](https://www.fabriziomusacchio.com/blog/2024-04-21-hodgkin_huxley_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/Hodgkin-Huxley-Model).
-* [Izhikevich model](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://www.fabriziomusacchio.com/blog/2024-04-29-izhikevich_model/).
-* [Simulating spiking neural networks with Izhikevich neurons](https://www.fabriziomusacchio.com/blog/2024-05-19-izhikevich_network_model/)
-  * ⟶ not part of this repository, but you can find it [here](https://github.com/FabrizioMusacchio/izhikevich_model).
+* [Neural plasticity and learning: A computational perspective](https://www.fabriziomusacchio.com/blog/2026-02-02-neural_plasticity_and_learning/) (overview article)
+* [Spike-timing-dependent plasticity (STDP)](https://www.fabriziomusacchio.com/blog/2026-02-12-stdp/)
+  * ⟶ `stdp_weight_plot.py` 
+  * ⟶ `stdp_simple_network_example.py`
 
 
 ## Installation
