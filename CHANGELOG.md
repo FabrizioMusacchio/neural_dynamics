@@ -1,5 +1,8 @@
 # Release notes for the Neural Dynamics repository
 
+## 🚀 Release v1.0.1
+In this release, we added two new scripts `stdp_weight_plot.py` and  `stdp_simple_network_example.py` to the repository that implement a simple spiking neural network example using spike-timing-dependent plasticity (STDP). These scripts are designed to illustrate the basic principles of STDP and how it can lead to learning in a neural network.
+
 ## 🚀 Release v1.0.0
 This is the initial release of the Neural Dynamics repository, featuring a comprehensive collection of educational Python scripts for computational neuroscience. The release includes tutorials on using the NEST Simulator, as well as standalone scripts implementing various neuron models and network dynamics.
 
