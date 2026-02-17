@@ -1,5 +1,8 @@
 # Release notes for the Neural Dynamics repository
 
+## 🚀 Release v1.0.2
+In this release, we added a new script `nervos_snn_mnist.py` that implements a spiking neural network (SNN) for MNIST pattern recognition using the `nervos` library. This script provides an end-to-end workflow for configuring experiment parameters, training the SNN, and analyzing the results with additional utilities for diagnostics and plots.
+
 ## 🚀 Release v1.0.1
 In this release, we added two new scripts `stdp_weight_plot.py` and  `stdp_simple_network_example.py` to the repository that implement a simple spiking neural network example using spike-timing-dependent plasticity (STDP). These scripts are designed to illustrate the basic principles of STDP and how it can lead to learning in a neural network.
 
