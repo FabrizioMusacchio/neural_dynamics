@@ -822,10 +822,10 @@ print("Accuracy:", acc)
 print("Balanced accuracy:", bal_acc)
 print("Recall:", recall)
 # plot confusion matrix:
-plot_confusion_matrix(C, labels=labels, normalize=False, title="Confusion matrix (counts)",cmap="Blues")
+plot_confusion_matrix(C, labels=labels, normalize=False, title="Confusion matrix (counts)",cmap="BuGn")
 plt.savefig(os.path.join(RESULTS_PATH, "confusion_matrix_counts.png"), dpi=200)
 plt.close()
-plot_confusion_matrix(C, labels=labels, normalize=True, title="Confusion matrix (row-normalized)", cmap="Blues")
+plot_confusion_matrix(C, labels=labels, normalize=True, title="Confusion matrix (row-normalized)", cmap="BuGn")
 plt.savefig(os.path.join(RESULTS_PATH, "confusion_matrix_normalized.png"), dpi=200)
 plt.close()
 
