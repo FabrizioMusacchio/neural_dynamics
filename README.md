@@ -76,6 +76,8 @@ All referenced Python scripts listed below can be found in the `tutorials/` dire
 * [Spike-timing-dependent plasticity (STDP)](https://www.fabriziomusacchio.com/blog/2026-02-12-stdp/)
   * ⟶ `stdp_weight_plot.py` 
   * ⟶ `stdp_simple_network_example.py`
+* [Implementing a minimal spiking neural network for MNIST pattern recognition using nervos](https://www.fabriziomusacchio.com/blog/2026-02-16-nervos_stdp_snn_simulation_on_mnist/)
+  * ⟶ `nervos_snn_mnist.py` 
 
 
 ## Installation
