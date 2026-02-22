@@ -1,5 +1,8 @@
 # Release notes for the Neural Dynamics repository
 
+## 🚀 Release v1.0.3
+In this release, we added a new script `urbanczik_senn_plasticity.py` that implements the Urbanczik-Senn plasticity rule for synaptic learning in spiking neural networks. 
+
 ## 🚀 Release v1.0.2
 In this release, we added a new script `nervos_snn_mnist.py` that implements a spiking neural network (SNN) for MNIST pattern recognition using the `nervos` library. This script provides an end-to-end workflow for configuring experiment parameters, training the SNN, and analyzing the results with additional utilities for diagnostics and plots.
 
