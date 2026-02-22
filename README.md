@@ -78,6 +78,8 @@ All referenced Python scripts listed below can be found in the `tutorials/` dire
   * ⟶ `stdp_simple_network_example.py`
 * [Implementing a minimal spiking neural network for MNIST pattern recognition using nervos](https://www.fabriziomusacchio.com/blog/2026-02-16-nervos_stdp_snn_simulation_on_mnist/)
   * ⟶ `nervos_snn_mnist.py` 
+* [Urbanczik-Senn plasticity](https://www.fabriziomusacchio.com/blog/2026-02-22-urbanczik_senn_plasticity/)
+  * ⟶ `urbanczik_senn_plasticity.py` 
 
 
 ## Installation
