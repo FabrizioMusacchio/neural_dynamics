@@ -1,5 +1,8 @@
 # Release notes for the Neural Dynamics repository
 
+## 🚀 Release v1.0.4
+In this release, we added two new scripts `clopath_spike_pairing.py` and `clopath_biderectional_connections.py` that implement the Clopath plasticity rule for synaptic learning in spiking neural networks. These scripts provide examples of how the Clopath rule can be applied to spike pairing and bidirectional connections, respectively, illustrating the dynamics of synaptic plasticity under different conditions.
+
 ## 🚀 Release v1.0.3
 In this release, we added a new script `urbanczik_senn_plasticity.py` that implements the Urbanczik-Senn plasticity rule for synaptic learning in spiking neural networks. 
 

@@ -80,6 +80,10 @@ All referenced Python scripts listed below can be found in the `tutorials/` dire
   * ⟶ `nervos_snn_mnist.py` 
 * [Urbanczik-Senn plasticity](https://www.fabriziomusacchio.com/blog/2026-02-22-urbanczik_senn_plasticity/)
   * ⟶ `urbanczik_senn_plasticity.py` 
+* [Clopath plasticity rule](https://www.fabriziomusacchio.com/blog/2026-04-14-clopath_rule/)
+  * ⟶ `clopath_spike_pairing.py`
+  * ⟶ `clopath_biderectional_connections.py`
+
 
 
 ## Installation
